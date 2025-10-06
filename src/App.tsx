@@ -1,9 +1,9 @@
 import './App.css'
-import Login from './pages/login.tsx'
+import Home from './pages/home.tsx'
 function App() {
   return (
     <>
-      <Login />
+      <Home />
     </>
   )
 }
